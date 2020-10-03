@@ -1,3 +1,0 @@
-# mana
-
-library for brinespell

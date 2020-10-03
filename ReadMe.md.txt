@@ -1,0 +1,2 @@
+Welcome to Hacktoberfest 2020 . It's a month long competition to encourage open source contribution around the world . Please feel free to contribute to the issues raised .
+This space works as a library for brinespell . Please try not to plagarise by copying from internet . Originality is appreciated .
